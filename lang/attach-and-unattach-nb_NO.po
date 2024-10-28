@@ -1,0 +1,41 @@
+# Copyright (C) 2014 Attach and Unattach
+# This file is distributed under the same license as the Attach and Unattach package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Attach and Unattach 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/attach-and-unattach\n"
+"POT-Creation-Date: 2014-08-15 06:50:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-08-15 09:00+1\n"
+"Last-Translator: Lukas Werner <info@weposolutions.de>\n"
+"Language-Team: Norwegian <info@weposolutions.de>\n"
+
+#: attach-and-unattach.php:17
+msgid "Unattach"
+msgstr "Slett Snarvei"
+
+#: attach-and-unattach.php:44
+msgid "Attach"
+msgstr "Kobling"
+
+#. Plugin Name of the plugin/theme
+msgid "Attach and Unattach"
+msgstr "Attach and Unattach"
+
+#. Plugin URI of the plugin/theme
+msgid "http://weposolutions.de/attach-and-unattach"
+msgstr "http://weposolutions.de/attach-and-unattach"
+
+#. Description of the plugin/theme
+msgid "Unattach, re-attach and attach media files from/to posts"
+msgstr "Unattach, re-attach and attach media files from/to posts"
+
+#. Author of the plugin/theme
+msgid "Lukas Werner"
+msgstr "Lukas Werner"
+
+#. Author URI of the plugin/theme
+msgid "http://weposolutions.de"
+msgstr "http://weposolutions.de"
